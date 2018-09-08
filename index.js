@@ -5,7 +5,7 @@ if (name === "Susan") {(
   consol.log("The name is correct"))
   
   else
-  consol.log("")
+  consol.log("Expected name to be Susan")
 }
 
 // Don't worry about this
